@@ -1,0 +1,7 @@
+﻿  player.cpp
+  wallk.cpp
+E:\AluCiclesGS2\Zexi\m17\ConsoleApplication2\ConsoleApplication2\wallk.cpp(9,27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS2\Zexi\m17\ConsoleApplication2\ConsoleApplication2\wallk.cpp(9,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS2\Zexi\m17\ConsoleApplication2\ConsoleApplication2\wallk.cpp(38,20): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+  ConsoleApplication2.vcxproj -> E:\AluCiclesGS2\Zexi\m17\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
